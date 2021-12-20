@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "Niyazzzzz",
+      "email": "niyaz@gmail.com",
+      "mobile": "9876543563",
+      "address": "ganpat galli",
+      "services": "Biryani"
+    },
+    {
+      "id": 3,
+      "name": "NiyazTest",
+      "email": "Niyaz@gmail.com",
+      "mobile": "8758717616",
+      "address": "khadebazar",
+      "services": "chai coffee"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
